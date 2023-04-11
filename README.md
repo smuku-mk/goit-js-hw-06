@@ -1,3 +1,3 @@
 # goit-js-hw-06
 
-https://github.com/SmukuHapace/goit-js-hw-06
+https://smukuhapace.github.io/goit-js-hw-06/
