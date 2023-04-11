@@ -53,17 +53,3 @@ a:hover {
   color: #75000a;
   background-color: #ffabb2;
 }
-
-.xd {
-  position: absolute;
-  color: #c8c8c8;
-  left: 50%;
-  top: 50vh;
-  border: none;
-  background-color: #ccc;
-  cursor: help;
-}
-
-.xd:focus + ul {
-  pointer-events: all;
-}
