@@ -17,22 +17,11 @@ body {
   position: relative;
 }
 
-input {
-  padding: 8px;
-  font: inherit;
-}
-
-button {
-  padding: 8px 12px;
-  cursor: pointer;
-}
-
 ul {
   list-style: none;
   display: flex;
   gap: 5px;
   flex-wrap: wrap;
-  pointer-events: none;
   transition-property: pointer-events;
   transition-delay: -250ms;
 }
