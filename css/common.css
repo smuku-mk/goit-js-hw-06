@@ -49,3 +49,16 @@ a:hover {
   color: #75000a;
   background-color: #ffabb2;
 }
+
+/* TASK 3 */
+.gallery {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.gallery > li > img {
+  width: 300px;
+  height: auto;
+}
